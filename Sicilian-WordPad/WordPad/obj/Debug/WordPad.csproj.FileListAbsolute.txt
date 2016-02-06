@@ -1,0 +1,20 @@
+C:\Users\10330669\Desktop\WordPad\WordPad\bin\Debug\WordPad.exe.config
+C:\Users\10330669\Desktop\WordPad\WordPad\bin\Debug\WordPad.exe
+C:\Users\10330669\Desktop\WordPad\WordPad\bin\Debug\WordPad.pdb
+C:\Users\10330669\Desktop\WordPad\WordPad\obj\Debug\WordPad.csprojResolveAssemblyReference.cache
+C:\Users\10330669\Desktop\WordPad\WordPad\obj\Debug\WordPad.Form1.resources
+C:\Users\10330669\Desktop\WordPad\WordPad\obj\Debug\WordPad.Properties.Resources.resources
+C:\Users\10330669\Desktop\WordPad\WordPad\obj\Debug\WordPad.csproj.GenerateResource.Cache
+C:\Users\10330669\Desktop\WordPad\WordPad\obj\Debug\WordPad.exe
+C:\Users\10330669\Desktop\WordPad\WordPad\obj\Debug\WordPad.pdb
+C:\Users\10330669\Desktop\WordPad\WordPad\obj\Debug\WordPad.About.resources
+C:\Users\Matteo\Desktop\DBS\BLOCK 3\Advanced C#\WordPad\WordPad\bin\Debug\WordPad.exe.config
+C:\Users\Matteo\Desktop\DBS\BLOCK 3\Advanced C#\WordPad\WordPad\obj\Debug\WordPad.exe
+C:\Users\Matteo\Desktop\DBS\BLOCK 3\Advanced C#\WordPad\WordPad\obj\Debug\WordPad.pdb
+C:\Users\Matteo\Desktop\DBS\BLOCK 3\Advanced C#\WordPad\WordPad\bin\Debug\WordPad.exe
+C:\Users\Matteo\Desktop\DBS\BLOCK 3\Advanced C#\WordPad\WordPad\bin\Debug\WordPad.pdb
+C:\Users\Matteo\Desktop\DBS\BLOCK 3\Advanced C#\WordPad\WordPad\obj\Debug\WordPad.csprojResolveAssemblyReference.cache
+C:\Users\Matteo\Desktop\DBS\BLOCK 3\Advanced C#\WordPad\WordPad\obj\Debug\WordPad.About.resources
+C:\Users\Matteo\Desktop\DBS\BLOCK 3\Advanced C#\WordPad\WordPad\obj\Debug\WordPad.Form1.resources
+C:\Users\Matteo\Desktop\DBS\BLOCK 3\Advanced C#\WordPad\WordPad\obj\Debug\WordPad.Properties.Resources.resources
+C:\Users\Matteo\Desktop\DBS\BLOCK 3\Advanced C#\WordPad\WordPad\obj\Debug\WordPad.csproj.GenerateResource.Cache
